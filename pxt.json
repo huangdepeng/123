@@ -1,0 +1,23 @@
+{
+    "name": "HicBit",
+    "version": "0.0.1",
+    "description": "null",
+    "license": "TIM",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "hicbit.ts",
+        "hicbitRGBLight.ts",
+        "sendbuffer.asm",
+        "_locales/zh/hicbit-strings.json",
+        "_locales/zh/hicbit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+    
+}
