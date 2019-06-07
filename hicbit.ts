@@ -1,7 +1,7 @@
 /*
  hicbit package
 */
-//% weight=10 icon="\uf21b" color=#246810
+//% weight=10 icon="\uf210" color=#6A5ACD
 namespace hicbit {
 
     export enum hicbit_Colors {
